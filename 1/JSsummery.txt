@@ -1,0 +1,10 @@
+Summary
+JS is OOP
+    - Data can organise in logical objects
+    - Means it is object oriented
+    - Premitive and refererance type
+JS is weakly types
+    - No type Allow variable to reassign to another type
+    - Switch type dymnamically
+Versatile lamngauge
+    - Can run on PC/server,
