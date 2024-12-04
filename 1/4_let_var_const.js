@@ -1,10 +1,10 @@
 
 console.log(name)
-var name = "yagnik"
+var name = "yp"
 console.log(name)
 // Out put
 // undefined
-// yagnik
+// yp
 // Before initialization we can use var
 
 console.log(surname)
@@ -12,7 +12,7 @@ let surname = "pokal"
 console.log(surname)
 // ReferenceError: Cannot access 'surname' before initialization
 // undefined
-// yagnik
+// yp
 
 // Before initialization we can use var
 

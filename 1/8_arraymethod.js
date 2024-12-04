@@ -1,4 +1,4 @@
-var myarr = ["Yagnik","Pokal",30]
+var myarr = ["y","p",30]
 
 // Length method
 for (let i = 0;i<myarr.length;i++){

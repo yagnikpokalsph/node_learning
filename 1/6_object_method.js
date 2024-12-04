@@ -1,7 +1,7 @@
 // Create object
 
 const person = {
-    name : "yagnik",
+    name : "yp",
     age :30
 }
 console.log(person)

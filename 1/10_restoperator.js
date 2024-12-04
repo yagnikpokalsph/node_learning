@@ -1,4 +1,4 @@
-let myarr = ["yagnik",30]
+let myarr = ["yp",30]
 
 const print = (arg1,arg2,arg3)=>{
     return [arg1,arg2,arg3];

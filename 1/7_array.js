@@ -1,4 +1,4 @@
-var myarr = ["Yagnik","Pokal",30]
+var myarr = ["y","p",30]
 console.log(myarr);
 
 // Access individual elements of the array

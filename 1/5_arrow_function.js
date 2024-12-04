@@ -1,4 +1,4 @@
-var name ="yagnik";
+var name ="yp";
 var age =30;
 // Default function we used till now
 function getUserDetail(userName, userAge){
