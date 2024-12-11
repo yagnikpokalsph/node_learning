@@ -1,0 +1,3 @@
+initialise typescript
+```tsc init```
+
